@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Circuit Diagram, cdlibrary.dll 4.0.0.0 -->
+
+<svg
+   version="1.1"
+   width="255"
+   height="236.31393"
+   id="svg65"
+   sodipodi:docname="circuit_dark.svg"
+   viewBox="0 0 265.45078 245.99894"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs65" />
+  <sodipodi:namedview
+     id="namedview65"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.0683384"
+     inkscape:cx="169.14692"
+     inkscape:cy="150.08123"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg65" />
+  <line
+     x1="213.7254"
+     y1="172.05946"
+     x2="223.7254"
+     y2="172.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line1" />
+  <line
+     x1="223.7254"
+     y1="172.05946"
+     x2="223.7254"
+     y2="232.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line2" />
+  <line
+     x1="73.725403"
+     y1="232.05946"
+     x2="223.7254"
+     y2="232.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line3" />
+  <line
+     x1="13.725402"
+     y1="192.05946"
+     x2="13.725402"
+     y2="232.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line4" />
+  <line
+     x1="13.725402"
+     y1="232.05946"
+     x2="23.725403"
+     y2="232.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line5" />
+  <line
+     x1="23.725403"
+     y1="232.05946"
+     x2="34.725403"
+     y2="232.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line7" />
+  <line
+     x1="62.725403"
+     y1="232.05946"
+     x2="73.725403"
+     y2="232.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line8" />
+  <circle
+     cx="37.725403"
+     cy="232.05946"
+     style="fill:#f4f4f4;fill-opacity:0;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse8"
+     r="3" />
+  <circle
+     cx="59.725403"
+     cy="232.05946"
+     style="fill:#f4f4f4;fill-opacity:0;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse9"
+     r="3" />
+  <line
+     x1="36.725403"
+     y1="224.05946"
+     x2="60.725403"
+     y2="224.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line9" />
+  <line
+     x1="42.725403"
+     y1="218.05946"
+     x2="54.725403"
+     y2="218.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line10" />
+  <line
+     x1="48.725403"
+     y1="218.05946"
+     x2="48.725403"
+     y2="224.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line11" />
+  <line
+     x1="13.725402"
+     y1="72.059471"
+     x2="103.7254"
+     y2="72.059471"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line12" />
+  <line
+     x1="83.725403"
+     y1="192.05946"
+     x2="253.7254"
+     y2="192.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line13" />
+  <line
+     x1="73.725403"
+     y1="172.05946"
+     x2="103.7254"
+     y2="172.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line14" />
+  <line
+     x1="83.725403"
+     y1="152.05946"
+     x2="103.7254"
+     y2="152.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line15" />
+  <line
+     x1="73.725403"
+     y1="132.05948"
+     x2="103.7254"
+     y2="132.05948"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line16" />
+  <line
+     x1="103.7254"
+     y1="132.05948"
+     x2="113.7254"
+     y2="132.05948"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line17" />
+  <line
+     x1="213.7254"
+     y1="32.059475"
+     x2="253.7254"
+     y2="32.059475"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line18" />
+  <line
+     x1="223.7254"
+     y1="72.059471"
+     x2="253.7254"
+     y2="72.059471"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line19" />
+  <line
+     x1="253.7254"
+     y1="32.059475"
+     x2="253.7254"
+     y2="72.059471"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line20" />
+  <line
+     x1="63.725403"
+     y1="32.059475"
+     x2="63.725403"
+     y2="72.059471"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line21" />
+  <line
+     x1="63.725403"
+     y1="32.059475"
+     x2="89.725403"
+     y2="32.059475"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line22" />
+  <line
+     x1="117.7254"
+     y1="32.059475"
+     x2="143.7254"
+     y2="32.059475"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line23" />
+  <circle
+     cx="92.725403"
+     cy="32.059475"
+     style="fill:#f4f4f4;fill-opacity:0;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse23"
+     r="3" />
+  <circle
+     cx="114.7254"
+     cy="32.059475"
+     style="fill:#f4f4f4;fill-opacity:0;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse24"
+     r="3" />
+  <line
+     x1="95.725403"
+     y1="30.059473"
+     x2="112.7254"
+     y2="24.059473"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line24" />
+  <line
+     x1="213.7254"
+     y1="32.059475"
+     x2="182.7254"
+     y2="32.059475"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line25" />
+  <line
+     x1="182.7254"
+     y1="22.059473"
+     x2="182.7254"
+     y2="42.059471"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line26" />
+  <line
+     x1="176.7254"
+     y1="27.059473"
+     x2="176.7254"
+     y2="37.059475"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line27" />
+  <line
+     x1="170.7254"
+     y1="22.059473"
+     x2="170.7254"
+     y2="42.059471"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line28" />
+  <line
+     x1="164.7254"
+     y1="27.059473"
+     x2="164.7254"
+     y2="37.059475"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line29" />
+  <line
+     x1="164.7254"
+     y1="32.059475"
+     x2="133.7254"
+     y2="32.059475"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line30" />
+  <text
+     x="173.7254"
+     y="20.059473"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:D-DIN;-inkscape-font-specification:D-DIN;text-anchor:middle;fill:#f4f4f4;stroke:none"
+     dominant-baseline="baseline"
+     id="text30">+5V</text>
+  <line
+     x1="13.725402"
+     y1="72.059471"
+     x2="13.725402"
+     y2="192.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line31" />
+  <line
+     x1="223.7254"
+     y1="132.05948"
+     x2="253.7254"
+     y2="132.05948"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line32" />
+  <line
+     x1="253.7254"
+     y1="132.05948"
+     x2="253.7254"
+     y2="192.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line33" />
+  <line
+     x1="13.725402"
+     y1="172.05946"
+     x2="34.725403"
+     y2="172.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line34" />
+  <line
+     x1="62.725403"
+     y1="172.05946"
+     x2="83.725403"
+     y2="172.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line35" />
+  <circle
+     cx="37.725403"
+     cy="172.05946"
+     style="fill:#f4f4f4;fill-opacity:0;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse35"
+     r="3" />
+  <circle
+     cx="59.725403"
+     cy="172.05946"
+     style="fill:#f4f4f4;fill-opacity:0;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse36"
+     r="3" />
+  <line
+     x1="40.725403"
+     y1="170.05946"
+     x2="57.725403"
+     y2="164.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line36" />
+  <line
+     x1="13.725402"
+     y1="152.05946"
+     x2="34.725403"
+     y2="152.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line37" />
+  <line
+     x1="62.725403"
+     y1="152.05946"
+     x2="83.725403"
+     y2="152.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line38" />
+  <circle
+     cx="37.725403"
+     cy="152.05946"
+     style="fill:#f4f4f4;fill-opacity:0;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse38"
+     r="3" />
+  <circle
+     cx="59.725403"
+     cy="152.05946"
+     style="fill:#f4f4f4;fill-opacity:0;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse39"
+     r="3" />
+  <line
+     x1="40.725403"
+     y1="150.05946"
+     x2="57.725403"
+     y2="144.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line39" />
+  <line
+     x1="13.725402"
+     y1="192.05946"
+     x2="34.725403"
+     y2="192.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line40" />
+  <line
+     x1="62.725403"
+     y1="192.05946"
+     x2="83.725403"
+     y2="192.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line41" />
+  <circle
+     cx="37.725403"
+     cy="192.05946"
+     style="fill:#f4f4f4;fill-opacity:0;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse41"
+     r="3" />
+  <circle
+     cx="59.725403"
+     cy="192.05946"
+     style="fill:#f4f4f4;fill-opacity:0;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse42"
+     r="3" />
+  <line
+     x1="40.725403"
+     y1="190.05946"
+     x2="57.725403"
+     y2="184.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line42" />
+  <line
+     x1="13.725402"
+     y1="132.05948"
+     x2="34.725403"
+     y2="132.05948"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line43" />
+  <line
+     x1="62.725403"
+     y1="132.05948"
+     x2="83.725403"
+     y2="132.05948"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line44" />
+  <circle
+     cx="37.725403"
+     cy="132.05948"
+     style="fill:#f4f4f4;fill-opacity:0;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse44"
+     r="3" />
+  <circle
+     cx="59.725403"
+     cy="132.05948"
+     style="fill:#f4f4f4;fill-opacity:0;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse45"
+     r="3" />
+  <line
+     x1="40.725403"
+     y1="130.05948"
+     x2="57.725403"
+     y2="124.05948"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line45" />
+  <rect
+     x="113.7254"
+     y="62.059471"
+     width="100"
+     height="120"
+     style="fill:#f4f4f4;fill-opacity:0;stroke:#f4f4f4;stroke-width:2"
+     id="rect45"
+     sodipodi:insensitive="true" />
+  <line
+     x1="103.7254"
+     y1="72.059471"
+     x2="113.7254"
+     y2="72.059471"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line46" />
+  <line
+     x1="103.7254"
+     y1="92.059479"
+     x2="113.7254"
+     y2="92.059479"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line47" />
+  <line
+     x1="213.7254"
+     y1="72.059471"
+     x2="223.7254"
+     y2="72.059471"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line48" />
+  <line
+     x1="213.7254"
+     y1="92.059479"
+     x2="223.7254"
+     y2="92.059479"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line49" />
+  <text
+     x="117.7254"
+     y="72.059471"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:D-DIN;-inkscape-font-specification:D-DIN;text-anchor:start;fill:#f4f4f4;stroke:none"
+     dominant-baseline="middle"
+     id="text49">GND</text>
+  <text
+     x="117.7254"
+     y="92.059479"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:D-DIN;-inkscape-font-specification:D-DIN;text-anchor:start;fill:#f4f4f4;stroke:none"
+     dominant-baseline="middle"
+     id="text50">3V3</text>
+  <text
+     x="209.7254"
+     y="72.059471"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:D-DIN;-inkscape-font-specification:D-DIN;text-anchor:end;fill:#f4f4f4;stroke:none"
+     dominant-baseline="middle"
+     id="text51">VB</text>
+  <text
+     x="209.7254"
+     y="92.059479"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:D-DIN;-inkscape-font-specification:D-DIN;text-anchor:end;fill:#f4f4f4;stroke:none"
+     dominant-baseline="middle"
+     id="text52">VU</text>
+  <line
+     x1="103.7254"
+     y1="112.05948"
+     x2="113.7254"
+     y2="112.05948"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line52" />
+  <line
+     x1="213.7254"
+     y1="112.05948"
+     x2="223.7254"
+     y2="112.05948"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line53" />
+  <text
+     x="117.7254"
+     y="112.05948"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:D-DIN;-inkscape-font-specification:D-DIN;text-anchor:start;fill:#f4f4f4;stroke:none"
+     dominant-baseline="middle"
+     id="text53">IO2</text>
+  <text
+     x="209.7254"
+     y="112.05948"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:D-DIN;-inkscape-font-specification:D-DIN;text-anchor:end;fill:#f4f4f4;stroke:none"
+     dominant-baseline="middle"
+     id="text54">IO16</text>
+  <line
+     x1="103.7254"
+     y1="132.05948"
+     x2="113.7254"
+     y2="132.05948"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line54" />
+  <line
+     x1="213.7254"
+     y1="132.05948"
+     x2="223.7254"
+     y2="132.05948"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line55" />
+  <text
+     x="117.7254"
+     y="132.05948"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:D-DIN;-inkscape-font-specification:D-DIN;text-anchor:start;fill:#f4f4f4;stroke:none"
+     dominant-baseline="middle"
+     id="text55">IO3</text>
+  <text
+     x="209.7254"
+     y="132.05948"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:D-DIN;-inkscape-font-specification:D-DIN;text-anchor:end;fill:#f4f4f4;stroke:none"
+     dominant-baseline="middle"
+     id="text56">IO17</text>
+  <line
+     x1="103.7254"
+     y1="152.05946"
+     x2="113.7254"
+     y2="152.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line56" />
+  <line
+     x1="213.7254"
+     y1="152.05946"
+     x2="223.7254"
+     y2="152.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line57" />
+  <text
+     x="117.7254"
+     y="152.05946"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:D-DIN;-inkscape-font-specification:D-DIN;text-anchor:start;fill:#f4f4f4;stroke:none"
+     dominant-baseline="middle"
+     id="text57">IO4</text>
+  <text
+     x="209.7254"
+     y="152.05946"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:D-DIN;-inkscape-font-specification:D-DIN;text-anchor:end;fill:#f4f4f4;stroke:none"
+     dominant-baseline="middle"
+     id="text58">IO18</text>
+  <line
+     x1="103.7254"
+     y1="172.05946"
+     x2="113.7254"
+     y2="172.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line58" />
+  <line
+     x1="213.7254"
+     y1="172.05946"
+     x2="223.7254"
+     y2="172.05946"
+     style="stroke:#f4f4f4;stroke-width:2;stroke-linecap:square;fill:#f4f4f4"
+     id="line59" />
+  <text
+     x="117.7254"
+     y="172.05946"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:D-DIN;-inkscape-font-specification:D-DIN;text-anchor:start;fill:#f4f4f4;stroke:none"
+     dominant-baseline="middle"
+     id="text59">IO5</text>
+  <text
+     x="209.7254"
+     y="172.05946"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:D-DIN;-inkscape-font-specification:D-DIN;text-anchor:end;fill:#f4f4f4;stroke:none"
+     dominant-baseline="middle"
+     id="text60">IO19</text>
+  <circle
+     cx="223.7254"
+     cy="172.05946"
+     style="fill:#f4f4f4;fill-opacity:1;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse60"
+     r="2" />
+  <circle
+     cx="13.725402"
+     cy="192.05946"
+     style="fill:#f4f4f4;fill-opacity:1;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse61"
+     r="2" />
+  <circle
+     cx="63.725403"
+     cy="72.059471"
+     style="fill:#f4f4f4;fill-opacity:1;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse62"
+     r="2" />
+  <circle
+     cx="13.725402"
+     cy="132.05948"
+     style="fill:#f4f4f4;fill-opacity:1;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse63"
+     r="2" />
+  <circle
+     cx="13.725402"
+     cy="152.05946"
+     style="fill:#f4f4f4;fill-opacity:1;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse64"
+     r="2" />
+  <circle
+     cx="13.725402"
+     cy="172.05946"
+     style="fill:#f4f4f4;fill-opacity:1;stroke:#f4f4f4;stroke-width:2"
+     id="ellipse65"
+     r="2" />
+  <flowRoot
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:46.08px;font-family:D-DIN;-inkscape-font-specification:D-DIN;text-align:center;text-decoration-color:#000000;letter-spacing:8.4px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#f4f4f4;stroke:#f4f4f4;stroke-width:0.298583;paint-order:markers stroke fill"
+     id="flowRoot65"
+     transform="translate(-26.274598,-17.940527)"><flowRegion
+       id="flowRegion65"
+       style="fill:#f4f4f4;stroke:#f4f4f4"><rect
+         id="rect65"
+         width="34.942303"
+         height="26.162945"
+         x="177.67902"
+         y="11.983539"
+         style="fill:#f4f4f4;stroke:#f4f4f4" /></flowRegion><flowPara
+       id="flowPara65" /></flowRoot>
+</svg>
