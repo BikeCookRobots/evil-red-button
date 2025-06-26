@@ -34,5 +34,5 @@ small piece of protoboard
 7) load code onto board
 8) configure Home Assistant (or whatever is controlling your devices) to respond to the commands from the button
 
-![](schematic/circuit_light#gh-light-mode-only)
-![](schematic/circuit_dark#gh-dark-mode-only)
+![ ](schematic/circuit_light.svg#gh-light-mode-only)
+![ ](schematic/circuit_dark.svg#gh-dark-mode-only)
